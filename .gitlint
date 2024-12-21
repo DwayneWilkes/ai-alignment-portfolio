@@ -1,0 +1,23 @@
+[general]
+# Enable Conventional Commit standards
+contrib=contrib-title-conventional-commits
+
+# Ignore merge commits (auto-generated messages)
+ignore-merge-commits=true
+
+[title-max-length]
+line-length=120
+
+[title-min-length]
+min-length=10
+
+[body-max-line-length]
+line-length=72
+
+[body-first-line-empty]
+# Must have a blank line between the title and the body
+# body-first-line-empty=true
+
+[body-trailing-whitespace]
+# Body must not have trailing whitespace
+# body-trailing-whitespace=true
