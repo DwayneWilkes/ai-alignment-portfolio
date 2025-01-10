@@ -1,0 +1,8 @@
+gitlint
+pre-commit
+openai
+anthropic
+pandas
+matplotlib
+plotly
+spacy
